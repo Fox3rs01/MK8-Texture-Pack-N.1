@@ -309,4 +309,30 @@ Remove:
 - Nothing
 
 
+
+
+
+V. 0.4.2
+
+
+Fix:
+- Nothing
+
+
+Add:
+- Remake all Starts end Ending Label (AGAIN)
+
+
+Better:
+- Better Skyes for some maps +++
+
+
+Change:
+- Nothing
+
+
+Remove:
+- Nothing
+
+
 000500001010EC00 > USA / 000500001010ED00  > EUR / 000500001010EB00 > JAP
