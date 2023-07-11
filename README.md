@@ -2,8 +2,8 @@
  Unfinished Mod Pack by Fox3rs
 
 Everything Present in this ModPack Was Created by Me (Fox3rs)!
-If you Want to Use Anything From this Mod Pack, you Are Free to do it
-BUT you Have to Give me the Credits; that's all.
+If you Want to Do Anything With this Mod Pack, you Are Free to do it
+BUT you Must Give me the Credits for the Base of the ModPack; that's all.
 
 Changelog:
 
