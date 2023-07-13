@@ -1,9 +1,9 @@
 # MK8-Texture-Pack-N.1
  Unfinished Mod Pack by Fox3rs
 
-Everything Present in this ModPack Was Created by Me (Fox3rs)!
-If you Want to Do Anything With this Mod Pack, you Are Free to do it
-BUT you Must Give me the Credits for the Base of the ModPack; that's all.
+Everything Present in this Texture Pack Was Created by Me (Fox3rs)!
+If you Want to Do Anything With it, you Are Free to do it
+BUT you Must Give me the Credit for Anything you are Going to do With it; that's all.
 
 Changelog:
 
