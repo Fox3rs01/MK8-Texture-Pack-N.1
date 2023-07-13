@@ -25,7 +25,7 @@ BUT you Must Give me the Credit for Anything you are Going to do With it; that's
 
 **Changed:**
 1. Better all Starts and Ending Labels _(AGAIN x2)_
-2. Better Skyes for some maps
+2. Better Sky for Some Tracks
 ‎ 
 ## 
 ### V. 1.0.3
