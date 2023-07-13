@@ -1,5 +1,5 @@
 # MK8-Texture-Pack-N.1
- Unfinished Mod Pack by Fox3rs
+Unfinished Texture Pack by Fox3rs
 
 Everything Present in this Texture Pack Was Created by Me (Fox3rs)!
 If you Want to Do Anything With it, you Are Free to do it
