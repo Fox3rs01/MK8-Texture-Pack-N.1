@@ -1,4 +1,4 @@
-# MK8-Mod-Pack-N.1
+# MK8-Texture-Pack-N.1
  Unfinished Mod Pack by Fox3rs
 
 Everything Present in this ModPack Was Created by Me (Fox3rs)!
